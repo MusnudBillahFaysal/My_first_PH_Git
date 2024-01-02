@@ -1,0 +1,25 @@
+.blog{
+    border: 10px solid mediumaquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    box-shadow: 10px 20px 30px brown;
+    /* background-sizes: 50%; */
+}
+
+.header{
+    background-image: url("/images/p.jpg");
+    /* background-size: 600px; */
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    text-align: center;
+    height: 500px;
+    /* display: none; */
+    /* visibility: hidden; */
+    /* background-repeat: repeat-x; */
+}
+*{
+    /* margin: 100px dotted blue; */
+    padding: 0px;
+    margin: 0px;
+}
